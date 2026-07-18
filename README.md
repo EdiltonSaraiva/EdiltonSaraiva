@@ -9,7 +9,7 @@
 ###
 
 <div data-importer="socials" align="center">
-  <a href="www.linkedin.com/in/edilton-saraiva-856641356" target="_blank">
+  <a href="https://www.linkedin.com/in/edilton-saraiva-856641356" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/edilton.saraiva/?__pwa=1#" target="_blank">
@@ -68,6 +68,6 @@
 
 ###
 
-<p data-importer="text" align="center">Entre em contato:<br>📩 <a href="ediltonsaraiva@gmail.com>">ediltonsaraiva@gmail.com</a> | <a href="www.linkedin.com/in/edilton-saraiva-856641356">linkedin.edilton-saraiva</a> 📱 </p>
+<p data-importer="text" align="center">Entre em contato:<br>📩 <a href="ediltonsaraiva@gmail.com>">ediltonsaraiva@gmail.com</a> | <a href="https://www.linkedin.com/in/edilton-saraiva-856641356">linkedin.edilton-saraiva</a> 📱 </p>
 
 ###
