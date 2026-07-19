@@ -28,43 +28,29 @@
 
 ###
 
-<h2 data-importer="text" align="left">☝️ ABOUT ME:</h2>
+<h2 data-importer="text" align="center">☝️ SOBRE MIM:</h2>
 
 ###
 
-<p data-importer="text" align="left">Desenvolvedor Back-end C#/.NET atualmente atuando com desenvolvimento de jogos e pesquisa científica.<br><br>Dei largada aos estudo em tecnologia com foco no desenvolvimento Back-end em fevereiro de 2025 ao entrar na faculdade de Sistemas de Informação no Centro Universitário Santa Terezinha - CEST. <br><br>Atualmente resido em São Luís - MA e busco oportunidades de estágios e cargos de Desenvolvedor Back-end Jr na Região Metropolitana.</p>
+<p data-importer="text" align="center">Desenvolvedor Back-end C#/.NET atualmente atuando com desenvolvimento de jogos e pesquisa científica.<br><br>Dei largada aos estudo em tecnologia com foco no desenvolvimento Back-end em fevereiro de 2025<br>ao entrar na faculdade de Sistemas de Informação no Centro Universitário Santa Terezinha - CEST. <br><br>Atualmente resido em São Luís - MA 🌴🏖️ e busco oportunidades de estágios <br>na área de tecnologia na Região Metropolitana.</p>
 
 ###
 
-<h2 data-importer="text" align="left">🛠 LANGUAGE AND TOOLS:</h2>
+<h2 data-importer="text" align="center">🛠 TECNOLOGIAS FAVORITAS:</h2>
 
 ###
 
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+<div align="center">
+  
+  | FRONTEND 🎨 | BACKEND⚙️ | OUTROS💻 |
+  | -------- | ------- | ------ |
+  | <p align="center" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  /> <img        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  /><img width="12" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  /><img width="12" /></p> | <p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  /> <img width="12" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo"  /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  /><img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  /><img width="12" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  /><img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  /><img width="12" /></p> |<p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  /><img width="12" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  /><img width="12" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  /><img width="12" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  /><img width="12" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  /></p> |
+  
 </div>
 
 ###
 
-<p data-importer="text" align="left">Na minha jornada de estudos continuo em busca de expandir minhas habilidades pessoais e téncnicas com estudos contínuos em busca de certificações, experiência em projetos, participações em eventos e rede de contatos.</p>
+<p data-importer="text" align="center">Na minha jornada de estudos continuo em busca de expandir minhas habilidades pessoais e téncnicas com estudos contínuos em busca de certificações, experiência em projetos, participações em eventos e rede de contatos.</p>
 
 ###
 
